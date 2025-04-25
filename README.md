@@ -4,4 +4,4 @@ Este es mi proyecto de CV en una sola página creado únicamente con HTML como p
 
 ## Project URL
 
-https://arishaifer.github.io/mi-cv-html/
+https://roadmap.sh/projects/single-page-cv
