@@ -2,4 +2,4 @@
 
 ## Project URL
 
-https://arishaifer.github.io/mi-cv-html/
+https://arishaifer.github.io/mi-cv-html/ 
